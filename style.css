@@ -1,3 +1,10 @@
 body {
-  background: blue;
+  background:#0d0073;
 }
+.header {
+  color: white;
+  margin: auto;
+  text-align: center;
+  font-family: "Monaco", Helvetica, monospace;
+}
+
