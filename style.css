@@ -5,6 +5,41 @@ body {
   color: white;
   margin: auto;
   text-align: center;
-  font-family: "Monaco", Helvetica, monospace;
+  font-family: "Tahoma", monospace;
+}
+
+header h1 {
+  font-size: 150px;
+  font-weight: lighter;
+}
+
+header a {
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-family: "Courier New", monospace;
+}
+
+hr.rounded {
+  border-top: 4px solid #bbb;
+  border-radius: 5px;
+  color: white;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+img {
+  height: 750px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div#AboutMe {
+  color: white;
+  text-align: center;
+  font-family: "Tahoma", monospace;
+  margin-left: 150px;
+  margin-right: 150px;
 }
 
