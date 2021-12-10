@@ -1,6 +1,16 @@
 body {
-  background:#0d0073;
-}
+  background-image: url("Background.jpeg");
+  background-size: auto;
+  background-repeat: repeat;
+  background-color: #cccccc;
+ }
+
+ div {
+   background: black;
+   margin-left: 300px;
+   margin-right: 300px;
+ }
+
 .header {
   color: white;
   margin: auto;
