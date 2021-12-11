@@ -7,11 +7,13 @@ body {
 
  div {
    background: black;
-   margin-left: 300px;
-   margin-right: 300px;
+   background-position: left;
+   min-width: 1200px;
+   margin-left: 100px;
+   margin-right: 100px;
  }
 
-.header {
+.navBar {
   color: white;
   margin: auto;
   text-align: center;
@@ -52,12 +54,12 @@ img#mainPicture {
   margin-right: auto;
 }
 
-div.AboutMe, div.Portfolio {
+div.AboutMe, div.Portfolio, div.Contact {
   color: white;
   text-align: center;
   font-family: "Tahoma", monospace;
-  margin-left: 150px;
-  margin-right: 150px;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
 h1 {
