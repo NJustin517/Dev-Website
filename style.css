@@ -54,10 +54,15 @@ img#mainPicture {
   margin-right: auto;
 }
 
-div.AboutMe, div.Portfolio, div.Contact {
+#AboutMe, #Portfolio, #Contact {
   color: white;
   text-align: center;
   font-family: "Tahoma", monospace;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#AboutMe p {
   margin-left: 20%;
   margin-right: 20%;
 }
